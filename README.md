@@ -1,4 +1,7 @@
-# Titanic_Survival_prediction
+#CODESOFT_TASK1- Titanic_Survival_prediction
+
+##INTERNSHIP
+This project was completed as paert of my DATA SCIENCE Internship at CodeSoft.
 
 ## Project Overview
 This project predicts whether a passenger survived the Titanic disaster using Machine Learning.
